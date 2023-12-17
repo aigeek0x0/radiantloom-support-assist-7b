@@ -1,5 +1,4 @@
-<img src="https://huggingface.co/aigeek0x0/radiantloom-support-assist-7b/resolve/main/
-radiantloom-support-assist.png" alt="Radiantloom Support Assist" width="800" style="margin-left:'auto' margin-right:'auto' display:'block'"/>
+<img src="https://huggingface.co/aigeek0x0/radiantloom-support-assist-7b/resolve/main/radiantloom-support-assist.png" alt="Radiantloom Support Assist" width="800" style="margin-left:'auto' margin-right:'auto' display:'block'"/>
 
 ## Radiantloom Support Assist 7B
 Radiantloom Support Assist 7B is an support-assistant large language model fine-tuned from [Zephyr-7B-Beta](https://huggingface.co/HuggingFaceH4/zephyr-7b-beta), over a custom-curated dataset of 3,000 support-assistant examples prepared by AI Geek Labs. The context lenght for the model is 4096 and it is licensed for commercial use.
